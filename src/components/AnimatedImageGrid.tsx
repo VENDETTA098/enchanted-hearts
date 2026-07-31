@@ -18,7 +18,7 @@ const AnimatedImageGrid: React.FC = () => {
       delay: 0.2
     },
     {
-      src:   "/images/photo7.jpg",
+      src:   "/images/photo5.jpg",
 
       caption: "I'm just blushing",
       delay: 0.4
@@ -26,13 +26,13 @@ const AnimatedImageGrid: React.FC = () => {
     {
       src:   "/images/photo5.jpg",
 
-      caption: "Okay mazak nhi",
+      caption: "Heyy",
       delay: 0.6
     },
     {
       src:   "/images/photo9.jpg",
 
-      caption: "whatttt",
+      caption: "Whatttt youuuu Doing ",
       delay: 0.8
     },
     {
