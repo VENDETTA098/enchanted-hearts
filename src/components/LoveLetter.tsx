@@ -22,7 +22,7 @@ const LoveLetter = () => {
           </p>
           <p className="letter-paragraph">
             I promise to be with you through every season of life, to support your dreams, 
-            and to create beautiful memories together. You are my forever person, my soulmate, 
+            and to create beautiful memories together. You are my forever person,
             and my greatest blessing.
           </p>
           <p className="letter-signature">
